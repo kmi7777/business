@@ -30,8 +30,8 @@ El objetivo principal del proyecto es brindar una interfaz de usuario intuitiva 
        user="tu_usuario",
        password="tu_contraseña",
        database="nombre_de_la_base_de_datos"
-   )
-```
+   )```
+   
 4. Ejecuta el script ventas.py para iniciar la aplicación de análisis de ventas.
 
 ## USO
